@@ -1,4 +1,4 @@
-# Data-Analysis-in-Excel - CFI Course
+# 📈 Data-Analysis-in-Excel - CFI Course
 
 <img width="1584" height="396" alt="banner" src="/images/banner.png" />
 
