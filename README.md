@@ -107,5 +107,5 @@ Communicate your insights clearly and interactively.
 
 ---
 
-Feel free to explore the files to see how Excel can be used for practical data analysis tasks.
+Feel free to explore the files form <a href="/excel-workbooks">here</a> here to see how Excel can be used for practical data analysis tasks.
 
