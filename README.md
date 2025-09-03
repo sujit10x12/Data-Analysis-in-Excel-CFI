@@ -93,10 +93,10 @@ Communicate your insights clearly and interactively.
   - Create dashboards and perform advanced calculations.
  
 - Dashboards
-  <img width="907" height="372" alt="waterfall-chart" src="https://github.com/user-attachments/assets/49c29f2c-2d70-4178-8f5b-65ecfc2270c6" />
-  <img width="907" height="344" alt="bars" src="https://github.com/user-attachments/assets/ed9abb06-61b4-46a0-b4fb-81c30160719c" />
-  <img width="907" height="406" alt="line-chart" src="https://github.com/user-attachments/assets/96dc1f64-dc6a-4fa9-aa6a-e30b2f6b93b9" />
-  <img width="907" height="305" alt="stack-bars" src="https://github.com/user-attachments/assets/36da89e2-8c00-4087-9a9c-242996d8dce9" />  
+  <img width="907" height="372" alt="waterfall-chart" src="/images/water-fall.png" />
+  <img width="907" height="344" alt="bars" src="/images/bars.png" />
+  <img width="907" height="406" alt="line-chart" src="/images/line-chart" />
+  <img width="907" height="305" alt="stack-bars" src="/images/stack-bars" />  
    
 ---
 
