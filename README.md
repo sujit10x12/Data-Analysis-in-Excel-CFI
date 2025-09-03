@@ -108,7 +108,8 @@ Feel free to explore the files form <a href="/excel-workbooks">here</a> here to 
 
 - **Course**: Data-Analysis-in-Excel 
 - **Provider**: Corporate Finance Institute (CFI)
-  <img width="400" height="372" alt="waterfall-chart" src="/images/certificate.jpg" />
+  
+ <img width="400" height="372" alt="waterfall-chart" src="/images/certificate.jpg" />
 
 ---
   
