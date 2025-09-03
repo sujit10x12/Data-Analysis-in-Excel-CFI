@@ -15,7 +15,7 @@ Projects and exercises completed as part of the Excel for Data Analysis course b
 
 ---
 
-## 🔍 Analyze Data
+## Analyze Data
 
 Learn to explore and evaluate your data efficiently using core Excel tools and functions.
 
@@ -31,7 +31,7 @@ Learn to explore and evaluate your data efficiently using core Excel tools and f
 
 ---
 
-## 🔄 Transform Data
+## Transform Data
 
 Prepare, clean, and reshape your data before analysis.
 
@@ -46,7 +46,7 @@ Prepare, clean, and reshape your data before analysis.
 
 ---
 
-## 📋 Excel Tables
+## Excel Tables
 
 Boost productivity with structured data formats and powerful data tools.
 
@@ -57,7 +57,7 @@ Boost productivity with structured data formats and powerful data tools.
 
 ---
 
-## 🧮 Dynamic Arrays
+## Dynamic Arrays
 
 Work with spill formulas and modern Excel functions for dynamic results.
 
@@ -70,7 +70,7 @@ Work with spill formulas and modern Excel functions for dynamic results.
 
 ---
 
-## 📈 Pivot Tables
+## Pivot Tables
 
 Summarize, explore, and visualize data with powerful aggregation tools.
 
@@ -81,7 +81,7 @@ Summarize, explore, and visualize data with powerful aggregation tools.
 
 ---
 
-## 📊 Visualize Data
+## Visualize Data
 
 Communicate your insights clearly and interactively.
 
