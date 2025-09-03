@@ -100,12 +100,15 @@ Communicate your insights clearly and interactively.
    
 ---
 
-## 📜 Course Info
-
-- **Course**: Data-Analysis-in-Excel 
-- **Provider**: Corporate Finance Institute (CFI) 
+Feel free to explore the files form <a href="/excel-workbooks">here</a> here to see how Excel can be used for practical data analysis tasks.
 
 ---
 
-Feel free to explore the files form <a href="/excel-workbooks">here</a> here to see how Excel can be used for practical data analysis tasks.
+## 📜 Course Info
 
+- **Course**: Data-Analysis-in-Excel 
+- **Provider**: Corporate Finance Institute (CFI)
+  <img width="907" height="372" alt="waterfall-chart" src="/images/certificate.jpg" />
+
+---
+  
