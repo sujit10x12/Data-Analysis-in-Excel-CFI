@@ -1,6 +1,6 @@
 # Data-Analysis-in-Excel - CFI Course
 
-<img width="1584" height="396" alt="banner" src="https://github.com/user-attachments/assets/c9db6af3-1e19-47ce-8cc0-17901c58cf9f" />
+<img width="1584" height="396" alt="banner" src="/images/banner.png" />
 
 Projects and exercises completed as part of the Excel for Data Analysis course by CFI (Corporate Finance Institute). Includes data transformation, pivot tables, and data visualization.
 
