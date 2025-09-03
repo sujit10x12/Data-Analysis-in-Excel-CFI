@@ -92,7 +92,7 @@ Communicate your insights clearly and interactively.
 - **Power Pivot**
   - Create dashboards and perform advanced calculations.
  
-- Dashboards
+- Dashboard Images
   <img width="907" height="372" alt="waterfall-chart" src="/images/waterfall-chart.png" />
   <img width="907" height="344" alt="bars" src="/images/bars.png" />
   <img width="907" height="406" alt="line-chart" src="/images/line-chart.png" />
